@@ -58,7 +58,6 @@ public class Anagram {
 		checkAnagram(str1, str2);
 
 	}
-
 }
 
 
