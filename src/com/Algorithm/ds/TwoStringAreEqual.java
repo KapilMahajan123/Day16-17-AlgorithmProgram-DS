@@ -18,6 +18,7 @@ public class TwoStringAreEqual {
         else {
             System.out.println("Both arrays are not equal");
         }
+		
     }
 
 }
