@@ -1,5 +1,10 @@
 package com.Algorithm.ds;
 
+/** 
+ *
+ *@author Kapil
+ *
+ **/
 public class PrimeNumber2D {
 	//Declare a pointer to a dynamic array of type int and size.
 	int[][] primeNoArray = new int[10][100]; 
