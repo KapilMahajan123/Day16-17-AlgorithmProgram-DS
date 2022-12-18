@@ -12,6 +12,7 @@ public class BinarySearch {
 		   int  mid=(s+e)/2;
 		   while (s <= e) {
 			   mid=(s+e)/2;
+			 //If the element is present at the middle itself
 			   if (n== arr[mid]) {
 				   System.out.println("The value is Place in "+mid+"  position");
 				   break;
