@@ -5,7 +5,6 @@ package com.Algorithm.ds;
  * @author Kapil
  *
  */
-
 public class InsertionSort {
 	
 	static void printSortedArray(int arr[]) {
