@@ -68,5 +68,4 @@ public class BankingCashCounter {
 		obj1.bankCounter();
 	}
 
-
 }
